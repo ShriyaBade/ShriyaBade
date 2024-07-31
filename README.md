@@ -1,12 +1,12 @@
 # Welcome to My GitHub Profile!
-Hello! I'm *Shriya Bade*, a passionate Software Engineer with a knack for solving complex problems and delivering impactful solutions. Here's a snapshot of my professional journey and skills:
+Hello! I'm *Shriya Bade*, passionate about exploring innovative technologies with a knack for solving complex problems and delivering impactful solutions. Here's a snapshot of my professional journey and skills:
 
-# Technical Skills
+## Technical Skills
 **Languages & Frameworks:** Python, Java, Go, C, C++, C#, JavaScript, HTML, CSS, SQL, React.js, Bootstrap, Node.js, Express, .NET
 
 **Developer Tools & Databases:** Microsoft Azure, Amazon Sagemaker, AWS S3, AWS Lambda, SageMaker Studio, Git, Visual Studio Code, Jupyter Notebook, Linux, MongoDB, MySQL
-# Experience
-## Microsoft - Software Engineering Intern
+## Experience
+### Microsoft - Software Engineering Intern
 April 2024 - June 2024 | Hyderabad, India
 
 Contributed to the Edge Notification Platform team for the Microsoft Edge Web Browser.
@@ -17,7 +17,7 @@ Managed the full lifecycle of the campaign, from metadata development to feature
 
 Enabled Crowd Source Testing by implementing command-line switches, streamlining testing processes and allowing for effective scenario testing without interference from built-in limitations.
 
-# Education
+## Education
 Bachelor of Technology in Computer Science
 
 Keshav Memorial Institute Of Technology, Hyderabad, India
