@@ -3,7 +3,7 @@ Hello! I'm *Shriya Bade*, a passionate Software Engineer with a knack for solvin
 
 # Technical Skills
 **Languages & Frameworks:** Python, Java, Go, C, C++, C#, JavaScript, HTML, CSS, SQL, React.js, Bootstrap, Node.js, Express, .NET
-**Developer Tools & Databases:** Microsoft Azure, Amazon Sagemaker, AWS S3, AWS Lambda, SageMaker Studio, Git, Visual Studio Code, Jupyter Notebook, Linux,MongoDB, MySQL
+**Developer Tools & Databases:** Microsoft Azure, Amazon Sagemaker, AWS S3, AWS Lambda, SageMaker Studio, Git, Visual Studio Code, Jupyter Notebook, Linux, MongoDB, MySQL
 # Experience
 ## Microsoft - Software Engineering Intern
 April 2024 - June 2024 | Hyderabad, India
