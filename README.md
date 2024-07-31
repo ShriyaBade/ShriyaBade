@@ -6,7 +6,7 @@ Hello! I'm *Shriya Bade*, a passionate Software Engineer with a knack for solvin
 **Developer Tools:** Microsoft Azure, Amazon Sagemaker, AWS S3, AWS Lambda, SageMaker Studio, Git, Visual Studio Code, Jupyter Notebook, Linux
 **Databases:** MongoDB, MySQL
 # Experience
-### Microsoft - Software Engineering Intern
+## Microsoft - Software Engineering Intern
 April 2024 - June 2024 | Hyderabad, India
 
 Contributed to the Edge Notification Platform team for the Microsoft Edge Web Browser.
