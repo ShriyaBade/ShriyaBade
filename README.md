@@ -10,8 +10,11 @@ Hello! I'm *Shriya Bade*, a passionate Software Engineer with a knack for solvin
 April 2024 - June 2024 | Hyderabad, India
 
 Contributed to the Edge Notification Platform team for the Microsoft Edge Web Browser.
+
 Designed and implemented a notification modal using C++, facilitating user data migration consent and automating Edge launch upon Windows sign-in.
+
 Managed the full lifecycle of the campaign, from metadata development to feature rollout, improving product quality by integrating user feedback and ensuring compliance standards.
+
 Enabled Crowd Source Testing by implementing command-line switches, streamlining testing processes and allowing for effective scenario testing without interference from built-in limitations.
 
 # Education
