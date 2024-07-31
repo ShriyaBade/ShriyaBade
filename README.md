@@ -24,4 +24,4 @@ Keshav Memorial Institute Of Technology, Hyderabad, India
 
 CGPA: 8.65 | 2021 – 2025
 
-Feel free to explore my repositories and projects. I'm always excited to collaborate and discuss innovative ideas. Let's connect and create something amazing together!
+You can reach me via email at shriyabade@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shriya-bade-8b0b99220/ and GitHub. Feel free to explore my repositories and projects. I'm always excited to collaborate and discuss innovative ideas. Let's connect and create something amazing together!
